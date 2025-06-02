@@ -1,0 +1,24 @@
+001|Laskar Pelangi|Andrea Hirata|Fiksi|1
+002|Gadis Kretek|Ratih Kumala|Fiksi|1
+003|Bumi Manusia|Pramoedya Ananta Toer|Fiksi|1
+004|Bumi|Tere Liye|Fiksi|1
+005|Dilan 1990|Pidi Baiq|Fiksi|1
+006|Daun yang Jatuh Tak Pernah Membenci Angin|Tere Liye|Fiksi|1
+007|Laut Bercerita|Leila S. Chudori|Fiksi|1
+008|Romeo & Juliet|Shakespeare|Fiksi|1
+009|Cantik Itu Luka|Eka Kurniawan|Fiksi|1
+010|Janji|Tereliye|Fiksi|1
+011|Tentang Kamu|Tereliye|Fiksi|1
+012|Hujan|Tereliye|Fiksi|1
+013|Sang Pemimpi|Andrea Hirata|Fiksi|1
+014|Sunset Bersama Rosie|Tereliye|Fiksi|1
+015|Pulang|Tereliye|Fiksi|1
+016|Pulang|Leila S. Chudori|Fiksi|1
+101|Sapiens|Yuval Noah Harari|Non Fiksi|1
+102|Atomic Habits|James Clear|Non Fiksi|1
+103|Filosofi Teras|Henry Manampiring|Non Fiksi|1
+104|The Psychology of Money|Morgan Housel|Non Fiksi|1
+105|Berani Tidak Disukai|Ichiro Kishimi|Non Fiksi|1
+106|How to Win Friends|Dale Carnegie|Non Fiksi|1
+107|Rich Dad Poor Dad|Robert Kiyosaki|Non Fiksi|1
+017|Hello|Tere liye|Fiksi|1
